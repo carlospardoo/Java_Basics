@@ -1,4 +1,8 @@
-package instanciade;
+package instanciade.test;
+
+import instanciade.Employee;
+import instanciade.WriteType;
+import instanciade.Writer;
 
 public class TestObjectCasting {
 

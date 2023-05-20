@@ -1,4 +1,7 @@
-package instanciade;
+package instanciade.test;
+
+import instanciade.Director;
+import instanciade.Employee;
 
 public class TestEmployee {
 
