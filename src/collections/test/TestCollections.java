@@ -50,6 +50,8 @@ public class TestCollections {
         myMap.put("valor1", "Luis");
         myMap.put("valor2", "Carlos");
         myMap.put("valor3", "Luisa");
+        //Nuevo put sobre clave ya existente cambia el valor asociado a la key
+        myMap.put("valor3", "Felipa");
 
         String element = (String) myMap.get("valor1");
 
